@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Корневой файл для наката оригинального состояния БД (с которого начались миграции). -->
+<databaseChangeLog
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-4.9.xsd">
+
+    <include file="./00-baseline/baseline.sql" relativeToChangelogFile="true"/>
+    <include file="./00-baseline/data-scripts.sql" relativeToChangelogFile="true"/>
+</databaseChangeLog>
