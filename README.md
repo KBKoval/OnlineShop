@@ -7,7 +7,7 @@
  - Товар 
  - Покупатель
  - Корзина
-![Alt text](db_structure.png)
+![Alt text](db_structure.jpg)
 Применяем след. стэк: 
  - Java 17
  - Spring Boot 3.5.0-RC1
