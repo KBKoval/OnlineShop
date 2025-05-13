@@ -11,7 +11,7 @@
     <groupId>com.koval</groupId>
     <artifactId>shop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>kafka</name>
+    <name>OnlineShop</name>
     <description>online shop</description>
     <url/>
 
